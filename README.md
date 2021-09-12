@@ -1,16 +1,11 @@
 # WhatsApp - Slack Mashup
-> Developed a WhatsApp-Slack mashup using WhatsApp's UI built upon Slack's backend for a unique experience.
-> It allows users to create rooms, supports Google authentication, live chat and includes features like - condensed chat room, last
+> A WhatsApp-Slack mashup using WhatsApp's UI built upon Slack's backend for a unique experience.
+
+* It allows users to create rooms, supports Google authentication, live chat and includes features like - condensed chat room, last
 seen of individual room and user profile.
-> Tech Stack: React, Firebase, React Context API, Google Auth 
+* Tech Stack: React, Firebase, React Context API, Google Auth 
 
-### The project is deployed at - [Algorithm Visualizer](https://algorithm-visualizer-9c27e.web.app/) . Check it out!!
-
-
-## Contributors 
-* [Arpit Sodani](https://github.com/arpitsodani15)
-* [Lakshit Jain](https://github.com/jain-lakshit)
-
+### The project is deployed at - [WhatsApp-Slack Mashup] (https://whatsapp-clone-70ad1.web.app/rooms/93rKaev2K4WPED0Ct2rD) . Check it out!!
 
 ## Screenshots
 
