@@ -5,7 +5,7 @@
 seen of individual room and user profile.
 * Tech Stack: React, Firebase, React Context API, Google Auth 
 
-### The project is deployed at - [WhatsApp-Slack Mashup] (https://whatsapp-clone-70ad1.web.app/rooms/93rKaev2K4WPED0Ct2rD) . Check it out!!
+### The project is deployed at - [WhatsApp-Slack Mashup](https://whatsapp-clone-70ad1.web.app/rooms/93rKaev2K4WPED0Ct2rD) . Check it out!!
 
 ## Screenshots
 
