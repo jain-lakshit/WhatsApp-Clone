@@ -9,22 +9,13 @@ seen of individual room and user profile.
 
 ## Screenshots
 
-![Dijkstra](Dijkstra1.png)
-Dijkstra Algorithm - The image above diplays the given starting point as green block and ending point as red block. The blue blocks are wall and we can't pass through them and brown blocks have double weight of a normal block which means it would be 2x costliers if we pass through brown block in comparison with white block. White block are normal blocks.
-The Algorithm finds the path which have the minimum cost.
+![WhatsApp](homepage.png)
+The Sign-in Page.
 
-![Dijkstra](Dijkstra2.png)
-The minimum cost path is shown above in yellow.
+![WhatsApp](gmail.signin.jpg)
+The user would require Google-Auth to sign in using his/her gmail-id.
 
-
-![Sort](Sort1.png)
-Sorting Algorithms
-
-![Sort](Sort2.png)
-This above image shows Merge Sort in action.
-
-![Sort](Sort3.png)
-The sorted array.
-
+![WhatsApp]()
+On the left we have various groups/channels and on the right we have a particular chat opened up where we can send and recieve messages.
 
 
